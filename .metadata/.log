@@ -1,0 +1,16 @@
+!SESSION 2015-09-02 00:36:16.077 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2015-09-02 00:36:26.396
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2015-09-02 00:36:48.112
+!MESSAGE properties loading for project 'Seikuuti'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-09-02 00:39:11.978
+!MESSAGE Failed to open search index.

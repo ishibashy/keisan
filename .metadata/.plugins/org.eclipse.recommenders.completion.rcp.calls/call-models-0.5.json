@@ -1,0 +1,7 @@
+{
+  "C:\\Program Files\\Java\\jre1.8.0_60\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jre1.8.0_60\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Program Files\\Java\\jre1.8.0_60\\lib\\rt.jar\u0027. Neither fingerprint \u00273465b45b62206679ff6c9d5995cb90f9ae2c86ae\u0027 nor symbolic name \u0027jre\u0027 are known."
+  }
+}
