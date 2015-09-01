@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<jsmoothproject>
+<arguments></arguments>
+<classPath>bin\seikuuti.class</classPath>
+<classPath>..\seikuuti.jar</classPath>
+<currentDirectory>C:\Users\isikoro\Dropbox\GitHub\kancolle</currentDirectory>
+<embeddedJar>true</embeddedJar>
+<executableName>..\seikuuti.exe</executableName>
+<iconLocation>..\§‹ó’l.png</iconLocation>
+<initialMemoryHeap>-1</initialMemoryHeap>
+<jarLocation>..\seikuuti.jar</jarLocation>
+<mainClassName>seikuuti</mainClassName>
+<maximumMemoryHeap>-1</maximumMemoryHeap>
+<maximumVersion></maximumVersion>
+<minimumVersion></minimumVersion>
+<skeletonName>Console Wrapper</skeletonName>
+<skeletonProperties>
+<key>Message</key>
+<value>This program needs Java to run.
+Please download it at http://www.java.com</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>PressKey</key>
+<value>0</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>Debug</key>
+<value>0</value>
+</skeletonProperties>
+</jsmoothproject>
